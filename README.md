@@ -6,6 +6,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
+Leave a mail at jukariyamj@gmail.com   
+OR
 <p align="left">
 <a href="https://linkedin.com/in/mohit jukariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit jukariya" height="30" width="40" /></a>
 <a href="https://instagram.com/mo_hit9190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo_hit9190" height="30" width="40" /></a>
